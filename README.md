@@ -1,7 +1,6 @@
 ### Olá! Eu sou a Ana Flávia 👋
 
 - Atualmente trabalho com Engenharia de Dados e Data Analytics
-- Estudando Django
   
 <div> 
   

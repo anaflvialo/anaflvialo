@@ -1,6 +1,8 @@
 ### Olá! Eu sou a Ana Flávia 👋
 
-Atualmente trabalho com Engenharia de Dados e Data Analytics
+- Engenheira de Computação pela Universidade Federal de Itajubá
+- Estudante de MBA em Data Science and Analytics - USP/Esalq
+- Atualmente trabalho como Data Engineer / Analytics Engineer
   
 <div> 
   

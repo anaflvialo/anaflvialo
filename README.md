@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Ana Flávia 👋
 
 - Engenheira de Computação pela Universidade Federal de Itajubá
-- Estudante de MBA em Data Science and Analytics - USP/Esalq
+- Especialista em Data Science and Analytics - USP/Esalq
 - Atualmente trabalho como Data Engineer / Analytics Engineer
   
 <div> 
